@@ -2,8 +2,8 @@
 
 ## About Me
 
-開発においてはNext.js / TypeScript を用いたWebフロントエンド開発を中心に取り組んでいます。  
-研究活動においてはWeb技術と認知科学を応用し、学習支援システムの設計・開発を行っています。
+Next.js / TypeScript を用いたWebフロントエンド開発を中心に行っています。  
+研究ではWeb技術と認知科学を応用し、学習支援システムの設計・開発を行っています。
 
 ---
 
@@ -11,7 +11,7 @@
 
 - Frontend: Next.js / React / TypeScript / TailwindCSS
 - Backend: Supabase / Firebase
-- Others: Docker / MySQL / Figma
+- Others: Docker / MySQL / Figma / Figma AI
 
 ---
 
@@ -28,18 +28,18 @@
   2023年度高専祭におけるクラス展示の集客を目的とした特設Webサイト
 
 - 開発背景：  
-  展示ゲームの内容が事前に十分伝わらず、来場者が展示の魅力を把握しづらい状態であった。
+  展示ゲームの内容が事前に十分伝わらず、来場者が展示の魅力を把握しづらい状態にあった。
 
 - 工夫点：
   - 展示ゲームの世界観を伝えるためのフォント・配色・レイアウト選定
-  - デバイスごとのUI最適化による閲覧体験の統一
+  - デバイスごとのUI最適化により、閲覧環境に依存しない体験を実現
   - アニメーションを用いた視覚的興味を引くUI実装
 
 - 使用技術：  
   Next.js / TypeScript / Yamada UI
 
 - 担当領域：  
-  UIの実装を担当し、デザイン再現・レスポンシブ対応・コンポーネント設計を行なった。
+  UI実装を担当し、デザイン再現・レスポンシブ対応・コンポーネント設計まで一貫して実施した。
 
 ---
 
@@ -54,17 +54,17 @@
   2024年度高専祭におけるクラス展示の集客を目的とした特設Webサイト
 
 - 開発背景：  
-   展示ゲームの内容が事前に十分伝わらず、来場者が展示の魅力を把握しづらい状態であった。
+   展示ゲームの内容が事前に十分伝わらず、来場者が展示の魅力を把握しづらい状態にあった。
 
 - 工夫点：
   - 画像最適化（圧縮・サイズ調整・ファイル形式）による読み込み速度の改善
-  - デバイスごとのUI最適化による閲覧体験の統一
+  - デバイスごとのUI最適化により、閲覧環境に依存しない体験を実現
 
 - 使用技術：  
   Next.js / TypeScript / Yamada UI
 
 - 担当領域：  
-  UIの実装を担当し、デザイン再現・レスポンシブ対応・コンポーネント設計を行なった。
+  UI実装を担当し、デザイン再現・レスポンシブ対応・コンポーネント設計まで一貫して実施した。
 
 ---
 
@@ -87,7 +87,7 @@
   - PWA化によりネイティブアプリに近い操作性を実現
 
 - 使用技術：  
-  Next.js / TypeScript / Supabase / FigmaAI
+  Next.js / TypeScript / Supabase / Figma / Figma AI
 
 - 担当領域：  
   フロントエンド実装およびPWA対応
@@ -96,7 +96,7 @@
 
 ### 社内書類申請フォーム
 
-<img width="979" height="505" alt="SS 8" src="https://github.com/user-attachments/assets/9c5a3245-624a-484e-b8f4-92a3cb2f4468" />
+<img width="1132" height="648" alt="image" src="https://github.com/user-attachments/assets/f2a4e322-6552-4dff-ac34-181732c4c35a" />
 
 - リポジトリ: https://github.com/kai02221514/KarabinerHackathon
 
@@ -107,14 +107,15 @@
   書類申請の増加と提出方法の多様化により、業務効率が低下していた
 
 - 工夫点：
+  - 書類管理者と提出者の機能分離
   - 申請書類に関するやりとりを行えるコミュニケーション機能を実装
   - 必要書類を管理するタスク機能を導入
 
 - 使用技術：  
-  Next.js / TypeScript / Supabase / FigmaAI
+  Next.js / TypeScript / Supabase / Figma / Figma AI
 
-- 担当領域：  
-  - FigmaAIによるデザイン作成
+- 担当領域：
+  - Figma AIによるデザイン作成
   - フロントエンド実装
   - 一部バックエンドロジック設計
 
@@ -144,7 +145,6 @@
 
 - 論文：https://github.com/user-attachments/files/26777827/5409_._.pdf
 
-
 ---
 
 ### 個別ルート提示型学習モデル
@@ -164,4 +164,3 @@
   - 振り返りによるメタ認知促進
 
 - 論文：https://github.com/user-attachments/files/26777813/_S2507_._.I.pdf
-
