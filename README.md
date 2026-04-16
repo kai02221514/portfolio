@@ -124,7 +124,7 @@
 
 ### CSSを可視化したWebフロントライブラリを⽤いた初学者のための学習システムの開発
 
-<img width="224" height="142" alt="image" src="https://github.com/user-attachments/assets/16e9aed0-5fda-4d1b-ba8e-7b9d987f1bd8" />
+<img width="734" height="465" alt="image" src="https://github.com/user-attachments/assets/16e9aed0-5fda-4d1b-ba8e-7b9d987f1bd8" />
 
 - 概要：  
   UIライブラリのブラックボックス化によるCSS理解不足を解消するため、CSSの可視化・編集機能を備えた学習システムを開発
@@ -149,7 +149,7 @@
 
 ### 個別ルート提示型学習モデル
 
-<img width="470" height="90" alt="image" src="https://github.com/user-attachments/assets/a49a3c44-caf6-43bd-83e1-27ebb79d48db" />
+<img width="734" height="140" alt="image" src="https://github.com/user-attachments/assets/a49a3c44-caf6-43bd-83e1-27ebb79d48db" />
 
 - 概要：  
   学習者ごとに最適な学習経路を提示し、学習継続を支援するモデルの設計・実装
