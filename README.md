@@ -141,7 +141,8 @@
   - IIAE Annual Conference 2024
   - ICIAE 2025
 
-- 論文：https://ndlsearch.ndl.go.jp/books/R000000016-I2013385320
+- 論文：https://github.com/user-attachments/files/26777827/5409_._.pdf
+
 
 ---
 
@@ -161,4 +162,5 @@
   - 誤り分類に基づく支援
   - 振り返りによるメタ認知促進
 
-- 論文：https://ndlsearch.ndl.go.jp/books/R000000016-I2013385320
+- 論文：https://github.com/user-attachments/files/26777813/_S2507_._.I.pdf
+
